@@ -1,0 +1,13 @@
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\bin\Release\net7.0\ATM.Application.Models.deps.json
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\bin\Release\net7.0\ATM.Application.Models.dll
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\bin\Release\net7.0\ATM.Application.Models.pdb
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\bin\Release\net7.0\ATM.Application.Models.xml
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ATM.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ATM.Application.Models.AssemblyInfoInputs.cache
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ATM.Application.Models.AssemblyInfo.cs
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ATM.Application.Models.csproj.CoreCompileInputs.cache
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ATM.Application.Models.dll
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\refint\ATM.Application.Models.dll
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ATM.Application.Models.xml
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ATM.Application.Models.pdb
+D:\StudyLab\2 course\OOP\hodzhakhov\src\ATM\ATM.Application.Models\obj\Release\net7.0\ref\ATM.Application.Models.dll
